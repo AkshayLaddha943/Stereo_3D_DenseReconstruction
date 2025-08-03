@@ -3,4 +3,5 @@
 
 
 ## Step 1: Creating a Disparity Map from stereo frames
-<img width="792" height="630" alt="unfiltered_disparity)map" src="https://github.com/user-attachments/assets/9dc75194-cca0-416d-8533-66ed4d0f5e7d" />
+
+<img width="792" height="302" alt="unfiltered_disparity)map" src="https://github.com/user-attachments/assets/e60fca74-7f62-457a-a535-ca289756adde" />
